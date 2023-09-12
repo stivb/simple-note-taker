@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
   listItem: {
     margin: 2,
     borderWidth: 1,
-    backgroundColor: '#ffff00',
+    backgroundColor: '#ffeed7',
     padding: 3
   },
 });
